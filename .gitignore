@@ -1,0 +1,27 @@
+# Frontend (React)
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/coverage/
+
+# Backend (Node.js)
+backend/node_modules/
+backend/dist/
+backend/.env
+backend/logs/
+backend/*.log
+
+# Comunes
+# .env
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
